@@ -1,0 +1,29 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Complex()
+comment1.params=r
+comment1.target=Complex(double)
+comment10.params=c
+comment10.target=Complex\ plus3(Complex)
+comment10.text=\r\n\ Plus\ v.3\:\ return\ a\ \ new\ complex\ which\ is\ the\ sum\ of\ this\ +\ c\r\n\ @param\ a\ complex\ number\ c\r\n\ @return\ the\ sum\ of\ this\ and\ c\r\n
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=r\ i
+comment2.target=Complex(double,\ double)
+comment3.params=
+comment3.target=double\ getReal()
+comment4.params=
+comment4.target=double\ getImag()
+comment5.params=rp
+comment5.target=void\ setReal(double)
+comment6.params=ip
+comment6.target=void\ setImag(double)
+comment7.params=c
+comment7.target=boolean\ isEqual(Complex)
+comment8.params=c\ sum
+comment8.target=void\ plus1(Complex,\ Complex)
+comment8.text=\r\n\ Plus\ version\ 1\:\ sum\ \=\ this\ +\ c\r\n\ @param\ c\ a\ complex\ number,\ the\ input\ of\ the\ sum\ \r\n\ @param\ sum\ a\ complex\ number\ where\ the\ sum\ will\ be\ stored\r\n
+comment9.params=c\ sum
+comment9.target=void\ plus2(Complex,\ Complex)
+comment9.text=\r\n\ Plus\ version\ 1\:\ sum\ \=\ this\ +\ c\r\n\ @param\ a\ complex\ number\ c\r\n\ @param\ a\ complex\ number\ sum\ where\ the\ sum\ will\ be\ stored\r\n
+numComments=12
