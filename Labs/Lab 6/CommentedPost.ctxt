@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=author\ comment
+comment0.target=CommentedPost(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CommentedPost\r\n
+comment1.params=
+comment1.target=void\ like()
+comment1.text=\r\n\ Record\ one\ more\ 'Like'\ indication\ from\ a\ user.\r\n
+comment2.params=
+comment2.target=void\ unlike()
+comment2.text=\r\n\ Record\ that\ a\ user\ has\ withdrawn\ his/her\ 'Like'\ vote.\r\n
+comment3.params=text
+comment3.target=void\ addComment(MessagePost)
+comment3.text=\r\n\ Add\ a\ comment\ to\ this\ post.\r\n\ \r\n\ @param\ text\ \ The\ new\ comment\ to\ add.\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getComments()
+comment5.params=
+comment5.target=void\ display()
+numComments=6
