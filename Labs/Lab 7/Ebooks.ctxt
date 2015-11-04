@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=bookAuthor\ bookTitle\ bookPages\ fileType
+comment0.target=Ebooks(Writer,\ java.lang.String,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=item
+comment2.target=boolean\ equals(java.lang.Object)
+numComments=3

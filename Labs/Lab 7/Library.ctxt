@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Library()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Library\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getBooks()
+comment2.params=b
+comment2.target=void\ addBook(Book)
+comment3.params=
+comment3.target=void\ print()
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+numComments=5
